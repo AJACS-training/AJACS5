@@ -70,7 +70,3 @@ AJACS1 あっと dbcls どっと rois どっと ac どっと jp
 * 16:15-16:30 休憩
 * 16:30-17:00 [中村保一](http://ynlab.kazusa.or.jp/~yn)（かずさDNA研究所） [「Kazusa Annotation Suiteの活用」](http://MotDB.DBCLS.jp/?AJACS5%2Fyn "AJACS5/yn (3543d)")
 * 17:00-17:30 坊農秀雅（ライフサイエンス統合データベースセンター） [「その他DBCLS提供サービスの活用術」](http://MotDB.DBCLS.jp/?AJACS5%2Fbono "AJACS5/bono (3550d)") [【参考動画】](http://togotv.dbcls.jp/20080806.html)
-
----
-
-[![lifesciencedb.jp](http://dbcls.rois.ac.jp/img/lsdb.gif "lifesciencedb.jp")](http://lifesciencedb.jp/)
