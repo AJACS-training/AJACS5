@@ -15,14 +15,13 @@
     <dd>約70名</dd>
     <dt>会場</dt>
     <dd>九州大学情報基盤研究開発センター~~２階~~ ４階 第一講義室 （会場の階の表記に誤りがありました。お詫びして訂正致します。）  
-
-    （九州大学 箱崎理系キャンパス）</dd>
-    <dt>費用</dt>
-    <dd>無料</dd>
-    <dt>持込</dt>
-    <dd>基本的にはコンピュータルームにあるパソコンを使っていただきます。</dd>
-    <dt>申込</dt>
-    <dd>以下のフォームからお申し込みください。</dd>
+（九州大学 箱崎理系キャンパス）</dd>
+<dt>費用</dt>
+<dd>無料</dd>
+<dt>持込</dt>
+<dd>基本的にはコンピュータルームにあるパソコンを使っていただきます。</dd>
+<dt>申込</dt>
+<dd>以下のフォームからお申し込みください。</dd>
 </dl>
 
 <pre>
@@ -32,17 +31,17 @@
 * 参加申し込みは締め切らせていただきました。たくさんのお申し込みありがとうございました。
 
 <dl class="list1" style="padding-left:16px;margin-left:16px">
-    <dt>お問い合わせ</dt>
-    <dd>
-        <pre>
-         AJACS1 あっと dbcls どっと rois どっと ac どっと jp
-        </pre>
-        までメールにてお問い合わせください。
-    </dd>
-    <dt>主催</dt>
-    <dd>[文部科学省委託研究開発事業「統合データベースプロジェクト」 ](http://lifesciencedb.mext.go.jp/)、大学共同利用機関法人 情報・システム研究機構(ROIS) [ライフサイエンス統合データベースセンター(DBCLS)](http://DBCLS.rois.ac.jp/)</dd>
-    <dt>共催</dt>
-    <dd>[九州大学大学院システム生命科学府 ](http://www.sls.kyushu-u.ac.jp/)</dd>
+<dt>お問い合わせ</dt>
+<dd>
+<pre>
+AJACS1 あっと dbcls どっと rois どっと ac どっと jp
+</pre>
+までメールにてお問い合わせください。
+</dd>
+<dt>主催</dt>
+<dd>[文部科学省委託研究開発事業「統合データベースプロジェクト」 ](http://lifesciencedb.mext.go.jp/)、大学共同利用機関法人 情報・システム研究機構(ROIS) [ライフサイエンス統合データベースセンター(DBCLS)](http://DBCLS.rois.ac.jp/)</dd>
+<dt>共催</dt>
+<dd>[九州大学大学院システム生命科学府 ](http://www.sls.kyushu-u.ac.jp/)</dd>
 </dl>
 
 <div class="jumpmenu">↑</div>
