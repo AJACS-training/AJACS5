@@ -44,13 +44,11 @@ AJACS1 あっと dbcls どっと rois どっと ac どっと jp
 <dd>[九州大学大学院システム生命科学府 ](http://www.sls.kyushu-u.ac.jp/)</dd>
 </dl>
 
-<div class="jumpmenu">↑</div>
 
-### [_](http://MotDB.DBCLS.jp/?AJACS5#u6d289c1 "u6d289c1") 内容  
+### 内容  
 
-<div class="jumpmenu">↑</div>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS5#y1aafbd0 "y1aafbd0") 午前：講演 10:00-12:00  
+#### 午前：講演 10:00-12:00  
 
 * 10:00-10:30 高木利久（ライフサイエンス統合データベースセンター）「統合データベースプロジェクトとは」[【参考動画】](http://togotv.dbcls.jp/20080729.html)
 * 10:30-10:50 佐藤賢二（金沢大学大学院 自然科学研究科）「ライフサイエンス用語の意味推定」[【講演動画】](http://togotv.dbcls.jp/20081105.html)[【プロトタイプ】](http://stag.genome.ad.jp/word-sense.html)
@@ -58,15 +56,14 @@ AJACS1 あっと dbcls どっと rois どっと ac どっと jp
 * 11:00-11:20 五斗進（京都大学化学研究所バイオインフォマティクスセンター）「KEGG Atlas と KAAS アノテーション　～　KEGG における最近の開発から」[【講演動画】](http://togotv.dbcls.jp/20081110.html)
 * 11:20-11:50 大久保公策（国立遺伝学研究所）「科学データは誰のものか」[【講演動画】](http://togotv.dbcls.jp/20081031.html)
 
-<div class="jumpmenu">↑</div>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS5#u92e7c2c "u92e7c2c") 午後：講習 13:30-17:30（統合データベースプロジェクトで提供しているサービスの使い方実習）  
+#### 午後：講習 13:30-17:30（統合データベースプロジェクトで提供しているサービスの使い方実習）  
 
-* 13:30-14:00 [河野信](http://www.dragonsnakers.com/ryu-ja/?%B2%CF%CC%EE%A1%A1%BF%AE) （ライフサイエンス統合データベースセンター）　[「データベースを使いこなすための最低限のコンピュータ使いこなし術」](http://MotDB.DBCLS.jp/?AJACS5%2Foreno "AJACS5/oreno (3543d)") [【参考動画】](http://togotv.dbcls.jp/20080730.html)
-* 14:00-15:00 川本祥子・仲里猛留（ライフサイエンス統合データベースセンター） 「生命科学横断検索の利用法」[解説編](http://MotDB.DBCLS.jp/?AJACS5%2Fskmt "AJACS5/skmt (3543d)")/[実践編](http://MotDB.DBCLS.jp/?AJACS5%2Fthecla "AJACS5/thecla (3543d)") [【参考動画】](http://togotv.dbcls.jp/20080731.html)
+* 13:30-14:00 [河野信](http://www.dragonsnakers.com/ryu-ja/?%B2%CF%CC%EE%A1%A1%BF%AE) （ライフサイエンス統合データベースセンター）　[「データベースを使いこなすための最低限のコンピュータ使いこなし術」](01_kawano.md) [【参考動画】](http://togotv.dbcls.jp/20080730.html)
+* 14:00-15:00 川本祥子・仲里猛留（ライフサイエンス統合データベースセンター） 「生命科学横断検索の利用法」[解説編](02_kawamoto.md)/[実践編](03_nakazato.md) [【参考動画】](http://togotv.dbcls.jp/20080731.html)
 * 15:00-15:15 休憩
-* 15:15-15:45 山本泰智（ライフサイエンス統合データベースセンター） [「OReFiLとAllie」](http://MotDB.DBCLS.jp/?AJACS5%2Fyayamamo1 "AJACS5/yayamamo1 (3544d)") [【参考動画】](http://togotv.dbcls.jp/20080805.html)
-* 15:45-16:15 藤枝香（ライフサイエンス統合データベースセンター） [「アナトモグラフィー」](http://MotDB.DBCLS.jp/?AJACS5%2Ffujieda "AJACS5/fujieda (3546d)") [【参考動画】](http://togotv.dbcls.jp/20080804.html)
+* 15:15-15:45 山本泰智（ライフサイエンス統合データベースセンター） [「OReFiLとAllie」](04_yamamoto.md) [【参考動画】](http://togotv.dbcls.jp/20080805.html)
+* 15:45-16:15 藤枝香（ライフサイエンス統合データベースセンター） [「アナトモグラフィー」](05_fujieda.md) [【参考動画】](http://togotv.dbcls.jp/20080804.html)
 * 16:15-16:30 休憩
-* 16:30-17:00 [中村保一](http://ynlab.kazusa.or.jp/~yn)（かずさDNA研究所） [「Kazusa Annotation Suiteの活用」](http://MotDB.DBCLS.jp/?AJACS5%2Fyn "AJACS5/yn (3543d)")
-* 17:00-17:30 坊農秀雅（ライフサイエンス統合データベースセンター） [「その他DBCLS提供サービスの活用術」](http://MotDB.DBCLS.jp/?AJACS5%2Fbono "AJACS5/bono (3550d)") [【参考動画】](http://togotv.dbcls.jp/20080806.html)
+* 16:30-17:00 [中村保一](http://ynlab.kazusa.or.jp/~yn)（かずさDNA研究所） [「Kazusa Annotation Suiteの活用」](06_nakamura.md)
+* 17:00-17:30 坊農秀雅（ライフサイエンス統合データベースセンター） [「その他DBCLS提供サービスの活用術」](07_bono.md) [【参考動画】](http://togotv.dbcls.jp/20080806.html)
